@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pci-employee-reports-v4';
+const CACHE_NAME = 'pci-employee-reports-v5';
 
 const APP_SHELL = [
   './',

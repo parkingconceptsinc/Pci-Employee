@@ -1,9 +1,11 @@
-const CACHE_NAME = 'pci-employee-reports-v1';
+const CACHE_NAME = 'pci-employee-reports-v3';
 
 const APP_SHELL = [
   './',
   './index.html',
   './manifest.json',
+  './assets/logo.png',
+  './assets/bg.jpg',
   './icons/icon-192.png',
   './icons/icon-512.png',
   './icons/icon-192-maskable.png',
